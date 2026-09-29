@@ -1,0 +1,31 @@
+# 黄山·夜 Huangshan Night — 夜山为底、云海白为字、日出金为印、松绿点缀。
+mode = "dark"
+accent = "#E0A75A"
+selection = "#30353C"
+muted = "#60666C"
+
+background = "#15171A"
+dark_background = "#0E1012"
+darker_background = "#070809"
+lighter_background = "#23262B"
+
+foreground = "#E2E4E6"
+dark_foreground = "#8A8E94"
+light_foreground = "#BEC2C6"
+bright_foreground = "#E2E4E6"
+
+red = "#DE6A5E"
+yellow = "#E0A75A"
+orange = "#DC8A52"
+green = "#7EB88C"
+cyan = "#6CB4C2"
+blue = "#80A2D6"
+magenta = "#C68AB8"
+brown = "#B09A82"
+
+bright_red = "#E58980"
+bright_yellow = "#E6B97C"
+bright_green = "#98C6A3"
+bright_cyan = "#89C3CE"
+bright_blue = "#9FB9E0"
+bright_magenta = "#D3A5C9"
